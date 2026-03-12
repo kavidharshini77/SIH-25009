@@ -62,7 +62,7 @@ Another innovative feature is the eco-impact tracker, which shows the positive e
 ## Technical Approach
 
 ## Technologies to be used 
-Frontend
+FRONTED
 
 HTML
 
@@ -72,19 +72,19 @@ JavaScript
 
 React.js
 
-Mobile App
+MOBILE APP
 
 Flutter or React Native
 
-Backend
+BACKEND
 
 Python (Django / Flask) or Node.js
 
-Database
+DATABASE
 
 MySQL or MongoDB
 
-Cloud
+CLOUD
 
 Firebase or AWS for hosting and authentication
 
