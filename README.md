@@ -62,31 +62,30 @@ Another innovative feature is the eco-impact tracker, which shows the positive e
 ## Technical Approach
 
 ## Technologies to be used 
-FRONTED
+FRONTED:
 
-HTML
+       HTML
 
-CSS
+       CSS
 
-JavaScript
+       JavaScript
 
-React.js
+       React.js
 
-MOBILE APP
+MOBILE APP:
 
-Flutter or React Native
+       Flutter or React Native
 
-BACKEND
+BACKEND:
 
-Python (Django / Flask) or Node.js
+       Python (Django / Flask) or Node.js
 
-DATABASE
+DATABASE:
 
-MySQL or MongoDB
+       MySQL or MongoDB
 
-CLOUD
-
-Firebase or AWS for hosting and authentication
+CLOUD:
+       Firebase or AWS for hosting and authentication
 
 ## Methodology and process for implementation 
 1.Students and teachers create accounts on the platform.
