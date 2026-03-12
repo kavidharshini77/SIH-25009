@@ -76,15 +76,23 @@ MySQL or MongoDB
 Cloud
 Firebase or AWS for hosting and authentication
 
-## Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+## Methodology and process for implementation 
 1.Students and teachers create accounts on the platform.
+
 2.Students access interactive environmental learning modules.
+
 3.Teachers assign eco missions or students choose challenges.
+
 4.Students complete activities and upload proof.
+
 5.The system awards eco-points and badges.
+
 6.Leaderboards update to show rankings.
+
 7.Teachers monitor progress through the dashboard
+
 ## Flow chart
+```
                 +---------------------+
                 |     Students        |
                 | (Web / Mobile App)  |
@@ -115,6 +123,7 @@ Firebase or AWS for hosting and authentication
 |  Admin / Teacher     |
 |     Dashboard        |
 +----------------------+
+```
 ## Feasibility and Viability
 The proposed system is technically feasible because it uses widely available technologies such as web frameworks, cloud storage, and mobile app development tools. These technologies are already widely used in educational platforms and can be implemented with moderate development resources.
 
