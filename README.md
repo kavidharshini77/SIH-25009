@@ -63,17 +63,29 @@ Another innovative feature is the eco-impact tracker, which shows the positive e
 
 ## Technologies to be used 
 Frontend
+
 HTML
+
 CSS
+
 JavaScript
+
 React.js
+
 Mobile App
+
 Flutter or React Native
+
 Backend
+
 Python (Django / Flask) or Node.js
+
 Database
+
 MySQL or MongoDB
+
 Cloud
+
 Firebase or AWS for hosting and authentication
 
 ## Methodology and process for implementation 
