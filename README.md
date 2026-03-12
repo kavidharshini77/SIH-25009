@@ -104,10 +104,8 @@ CLOUD:
 7.Teachers monitor progress through the dashboard
 
 ## Flow chart
-```
   <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7c3640c7-4118-4a48-856f-d964770ec2b1" />
           
-```
 ## Feasibility and Viability
 The proposed system is technically feasible because it uses widely available technologies such as web frameworks, cloud storage, and mobile app development tools. These technologies are already widely used in educational platforms and can be implemented with moderate development resources.
 
