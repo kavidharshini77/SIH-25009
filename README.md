@@ -85,6 +85,7 @@ DATABASE:
        MySQL or MongoDB
 
 CLOUD:
+       
        Firebase or AWS for hosting and authentication
 
 ## Methodology and process for implementation 
@@ -104,36 +105,8 @@ CLOUD:
 
 ## Flow chart
 ```
-                +---------------------+
-                |     Students        |
-                | (Web / Mobile App)  |
-                +----------+----------+
-                           |
-                           v
-                  +------------------+
-                  |  Frontend Layer  |
-                  | React / Flutter  |
-                  +---------+--------+
-                            |
-                            v
-                 +--------------------+
-                 |    Backend API     |
-                 |  Django / Node.js  |
-                 +---------+----------+
-                           |
-       +-------------------+-------------------+
-       |                                       |
-       v                                       v
-+--------------+                    +-------------------+
-|   Database   |                    |  AI Recommendation|
-| MySQL/Mongo  |                    |     System        |
-+--------------+                    +-------------------+
-       |
-       v
-+----------------------+
-|  Admin / Teacher     |
-|     Dashboard        |
-+----------------------+
+  <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7c3640c7-4118-4a48-856f-d964770ec2b1" />
+          
 ```
 ## Feasibility and Viability
 The proposed system is technically feasible because it uses widely available technologies such as web frameworks, cloud storage, and mobile app development tools. These technologies are already widely used in educational platforms and can be implemented with moderate development resources.
